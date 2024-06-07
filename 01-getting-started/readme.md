@@ -28,3 +28,16 @@ To run my first Go code, run this command in VSCode terminal:
 ```
 go run app.go
 ```
+
+## Initiating GO
+Define a module name with:
+```
+go mod init example.com/example
+```
+This command is to tell compiler, that the code we define is belong to module `example.com/example`. Its neccesary to build a Go app that can be used across operating systems.
+
+## Building GO
+After we define the module, now we can build it so it can be executed without go compiler. To do so, run command:
+```
+go build
+```

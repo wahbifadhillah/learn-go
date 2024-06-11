@@ -12,8 +12,9 @@ This repository is organized into sections corresponding to the major course mod
 
 | Section | Description                                                                                                  |
 | ------ | ------------------------------------------------------------------------------------------------------------ |
-| 01     | [Getting Started](./01-getting-started) (Fundamentals of GO, setup, tools, syntax)                           |
-| ...     | (Will be added more)                                                                         |
+| 01     | [Getting Started](./01-getting-started) (Fundamentals of GO, setup, tools, hello world)                           |
+| 02     | [Values and Types](./02-values-and-types/) (Values, Types, Command Input) |
+| ...     | (Will be added more) |
 
 ## Additional Resources
 

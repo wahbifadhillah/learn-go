@@ -13,7 +13,8 @@ This repository is organized into sections corresponding to the major course mod
 | Section | Description                                                                                                  |
 | ------ | ------------------------------------------------------------------------------------------------------------ |
 | 01     | [Getting Started](./01-getting-started) (Fundamentals of GO, setup, tools, hello world)                           |
-| 02     | [Values and Types](./02-values-and-types/) (Values, Types, Command Input) |
+| 02     | [Values and Types](./02-values-and-types/) (Values, Types, Command Input, Function, Typesafe) |
+| 03     | [Control Structures](./03-control-structures/) (More Functions, Errors, Handling Errors, Write/ Read from File, [Challenge](./03-control-structures/challange-profit-calculator/app.go)) |
 | ...     | (Will be added more) |
 
 ## Additional Resources

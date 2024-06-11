@@ -32,7 +32,7 @@ result := calculateArea(5, 10)
 * Module Definition: [go.mod](./04-working-with-packages/go.mod)
 
 ### Notes
-You must define function name with Uppercase starting letter, instead of `getData`, you should use `GetData` instead.
+You must define function name with Capitalized starting letter, instead of `getData`, you should use `GetData` instead.
 
 ### Third-Party Packages
 

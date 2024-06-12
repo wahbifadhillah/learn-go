@@ -16,6 +16,7 @@ This repository is organized into sections corresponding to the major course mod
 | 02     | [Values and Types](./02-values-and-types/) (Values, Types, Command Input, Function, Typesafe) |
 | 03     | [Control Structures](./03-control-structures/) (If/ Else, Switch, More Functions, Errors, Handling Errors, Write/ Read from File, [Challenge](./03-control-structures/challange-profit-calculator/app.go)) |
 | 04     | [Working with Packages](./04-working-with-packages/) (Splitting Code: Same Package and Different Packages;, Third Party Packages, Package Setup and Installations) |
+| 02     | [Pointers](./05-pointers/) (Pointers, Reference) |
 | ...     | (Will be added more) |
 
 ## Additional Resources

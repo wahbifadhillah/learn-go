@@ -4,8 +4,7 @@ import "fmt"
 
 func main() {
 	age := 32
-	var agePointer *int
-	agePointer = &age
+	var agePointer *int = &age
 	fmt.Println("Age:", *agePointer)
 	editAgeToAdultYears((agePointer))
 	fmt.Println(age)

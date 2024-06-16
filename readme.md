@@ -17,7 +17,10 @@ This repository is organized into sections corresponding to the major course mod
 | 03     | [Control Structures](./03-control-structures/) (If/ Else, Switch, More Functions, Errors, Handling Errors, Write/ Read from File, [Challenge](./03-control-structures/challange-profit-calculator/app.go)) |
 | 04     | [Working with Packages](./04-working-with-packages/) (Splitting Code: Same Package and Different Packages;, Third Party Packages, Package Setup and Installations) |
 | 05     | [Pointers](./05-pointers/) (Pointers, Reference, Mutating Pointer) |
-| 06     | [Structs & Custom Types](./06-structs-and-custom-types/) (Struct, Struct Pointers, Struct Method, Struct Constructor, Struct Error Handling, Struct Package, Struct Embedding, Custom Type, writing JSON) |
+| 06     | [Structs & Custom Types](./06-structs-and-custom-types/) (Struct, Struct Pointers, Struct Method, Struct Constructor, Struct Error Handling, Struct Package, Struct Embedding, Custom Type) |
+| 07     | [Practice Summary](./07-pratice-summary/) (Praticing all things learned + Writing JSON) |
+| 08     | [Interfaces](./08-interfaces/) (Defining Interface, Using Interface, Embedded Interface, Any Type, Value Switch)|
+| 09     | [Generics](./09-generic/) (Defining Generics, Using Generics) |
 | ...     | (Will be added more) |
 
 ## Additional Resources

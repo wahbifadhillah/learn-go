@@ -21,7 +21,7 @@ This repository is organized into sections corresponding to the major course mod
 | 07     | [Practice Summary](./07-pratice-summary/) (Praticing all things learned + Writing JSON) |
 | 08     | [Interfaces](./08-interfaces/) (Defining Interface, Using Interface, Embedded Interface, Any Type, Value Switch)|
 | 09     | [Generics](./09-generic/) (Defining Generics, Using Generics) |
-| 10     | [Arrrays](./10-arrays/) (Initiate Array, Mutation, Slice, Length, Capacity, Dynamic Array, Append, [Challange](./10-arrays/excercise/)) |
+| 10     | [Arrrays](./10-arrays/) ([Array Lists](./10-arrays\lists\lists.go), [Challange](./10-arrays/excercise/), [Create-Add-Delete Maps](./10-arrays\maps\maps.go), [Make, Type Alias or Shorthand, Looping Array](./10-arrays\main.go)) |
 | ...     | (Will be added more) |
 
 ## Additional Resources

@@ -22,6 +22,7 @@ This repository is organized into sections corresponding to the major course mod
 | 08     | [Interfaces](./08-interfaces/) (Defining Interface, Using Interface, Embedded Interface, Any Type, Value Switch)|
 | 09     | [Generics](./09-generic/) (Defining Generics, Using Generics) |
 | 10     | [Arrrays](./10-arrays/) ([Array Lists](./10-arrays\lists\lists.go), [Challange](./10-arrays/excercise/), [Create-Add-Delete Maps](./10-arrays\maps\maps.go), [Make, Type Alias or Shorthand, Looping Array](./10-arrays\main.go)) |
+| 11     | [Functions deep dive](./11-functions-deep-dive) ([Function as Values, Function Types, Returning Function as Value](./11-functions-deep-dive\functions_are_values\main.go), [Anonymous Functions, Closures-Factory](./11-functions-deep-dive\anonymous), [Recursion](./11-functions-deep-dive\recursion\recursion.go), [Variadic](./11-functions-deep-dive\main.go)) |
 | ...     | (Will be added more) |
 
 ## Additional Resources
